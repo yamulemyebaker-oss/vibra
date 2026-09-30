@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Studio",
+  "description": "Interactive modern web application workspace and project starter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
